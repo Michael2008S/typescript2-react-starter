@@ -44,7 +44,7 @@ ok 1 should be equal
 在浏览器运行应用需要用 quickpack 打包:
 
 ```
-npm bundle
+npm run bundle
 ```
 
 浏览器打开 `index.html` 即可运行。
